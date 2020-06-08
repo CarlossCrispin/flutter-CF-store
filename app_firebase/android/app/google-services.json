@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702704734503",
+    "firebase_url": "https://appfirebase-29875.firebaseio.com",
+    "project_id": "appfirebase-29875",
+    "storage_bucket": "appfirebase-29875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702704734503:android:3deeb10db1ca68f22d5902",
+        "android_client_info": {
+          "package_name": "com.crispin.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702704734503-anb6u4kugr48tfoa1d2ctu6niicod00h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsuAi8tIWDxqBkxqARTa6osgaE7TF-OuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702704734503-anb6u4kugr48tfoa1d2ctu6niicod00h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
